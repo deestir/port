@@ -1,4 +1,7 @@
-# port
-mini portfolio for im 415
+# Deanna Stirrup
 
-published via github for windows
+![](http://deestir.github.io/port/assets/img/characterDesign/miaNew.png)
+
+-mini portfolio for im 415
+
+-published via github for windows
